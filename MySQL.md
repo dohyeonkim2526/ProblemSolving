@@ -1,5 +1,5 @@
 # SequelPro에서 Failed Error 해결하는 법
-### 시스템 환경설정 > MySQL > ACTIVE를 반드시 해주고 시작할 것.
+### 📍시스템 환경설정 > MySQL > ACTIVE를 반드시 해주고 시작할 것.
 
 방법1. MySQL 설치 후 터미널에서 비밀번호를 변경해준다.
 
