@@ -20,4 +20,3 @@
             > Host: 127.0.0.1
             > Username: root
             > Password: 비밀번호 입력
-            
