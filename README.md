@@ -9,7 +9,7 @@
  
      (1) cd 폴더 생성할 파일경로
             
-     (2) git clone url 주소 복사
+     (2) git clone 레파지토리 주소
             
             if) 파일경로: /Users/Desktop
                 url주소: github.com/abcd1234
