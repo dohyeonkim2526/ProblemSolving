@@ -6,8 +6,10 @@
 1. 새로운 Repository 생성
 2. 해당 Repository 에서 url 주소 복사
 3. (in Visual Studio Code terminal)
-            (1) cd 폴더 생성할 파일경로
-            (2) git clone url 주소 복사
+ 
+     (1) cd 폴더 생성할 파일경로
+            
+     (2) git clone url 주소 복사
             
             if) 파일경로: /Users/Desktop
                 url주소: github.com/abcd1234
