@@ -11,11 +11,11 @@
             
      (2) git clone 레파지토리 주소
             
-          if) 파일경로: /Users/Desktop
-              url주소: github.com/abcd1234
+        if) 파일경로: /Users/Desktop
+           url주소: github.com/abcd1234
             
-          cd /Users/Desktop
-          git clone github.com/abcd1234
+        cd /Users/Desktop
+        git clone github.com/abcd1234
             
 ## How to upload file
 1. Visual Studio Code > Open > 폴더명
