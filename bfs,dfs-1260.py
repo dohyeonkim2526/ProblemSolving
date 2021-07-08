@@ -1,3 +1,4 @@
+from collections import deque
 n,m,v=map(int,input().split())
 mat=[[0]*(n+1) for _ in range(n+1)]
 visit=[0]*(n+1)
@@ -14,11 +15,12 @@ def dfs(start):
             dfs(i)
 
 def bfs(start):
-    queue=[start]
+    queue=deque([start])
     visit[start]=1
 
     while queue:
-        start=queue.pop(0)
+        #start=queue.pop(0)
+        start=queue.popleft()
         print(start, end=' ')
         for i in range(1,n+1):
             if visit[i]==0 and mat[start][i]==1:
