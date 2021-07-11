@@ -36,7 +36,6 @@ def bfs(x,y,x_end,y_end):
                 queue.append([mx,my])
 
 
-
 for _ in range(case):
     
     I=int(sys.stdin.readline())
