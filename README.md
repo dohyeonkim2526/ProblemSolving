@@ -1,6 +1,6 @@
 # ProblemSolving
 * Algorithm with Python
-* SQL
+* MySQL (from Leetcode)
 
 ## Connect folder with Visual Studio Code
 1. 새로운 Repository 생성
